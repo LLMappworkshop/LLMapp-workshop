@@ -67,7 +67,7 @@ We welcome the following two types of submissions:
 - **Notification of Acceptance:** [Notification Date]
 - **Camera-Ready Papers Due:** [Camera-Ready Deadline]
 - **Workshop Date:** Will be updated.
-- 
+  
 # Contact Information
 
 If you have any further questions or require assistance, please do not hesitate to contact us at [llmappws@gmail.com](mailto:llmappws@gmail.com). We are happy to assist with any inquiries regarding the workshop or your participation.
