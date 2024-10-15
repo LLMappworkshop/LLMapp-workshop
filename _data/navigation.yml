@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Overview"
+    url: "/#overview"
+
+  - title: "Topics of Interest"
+    url: "/#topics-of-interest"
+
+  - title: "Submission Guidelines"
+    url: "/#submission-guidelines"
+    
+  - title: "Important Dates"
+    url: "/#important-dates"
+
+  - title: "Contact Information"
+    url: "/#contact-information"
