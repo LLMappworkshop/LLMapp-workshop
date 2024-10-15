@@ -21,7 +21,7 @@ As the capabilities of LLMs continue to expand, there has been a growing interes
 - **LLM app**: A specialized application (app) powered by an LLM, distinct from conventional mobile apps that may incorporate LLM technology. These apps, typically found on platforms like GPT Store, Poe, Coze, and FlowGPT, are specifically designed to harness the advanced capabilities of LLMs for a variety of purposes, tasks, or scenarios. 
 - **LLM app store**: A centralized platform that hosts, curates, and distributes LLM apps, enabling users to discover and access tailored intelligent services.
   
-<img align="center" width=600px alt="Unicorn" src="http://LLMapp-workshop.github.io/images/llmapp.png"/>
+<img align="center" width=600px alt="Unicorn" src="http://llmappworkshop.github.io/images/llmapp.png"/>
 
 # Topics of Interest
 
@@ -54,7 +54,7 @@ We welcome the following two types of submissions:
 - All submissions must be original and not under review elsewhere.
 - Submissions must conform to the IEEE conference proceedings template, specified in the IEEE Conference Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt type). LaTeX users must use `\documentclass[10pt,conference]{IEEEtran}` without including the `compsoc` or `compsocconf` options.
 - Papers must be submitted via the HotCRP submission system ([Submission URL]) by [Submission Deadline].
-- The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. This date may be up to two weeks prior to the first day of ICSE 2025. The official publication date affects the deadline for any patent filings related to published work.
+- The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. This date may be up to two weeks prior to the first day of FSE 2025. The official publication date affects the deadline for any patent filings related to published work.
 
 ## Review Process
 
@@ -70,7 +70,7 @@ We welcome the following two types of submissions:
 
 # Contact Information
 
-If you have any further questions or require assistance, please do not hesitate to contact us at [LLMapp.workshop@gmail.com](mailto:LLMapp.workshop@gmail.com). We are happy to assist with any inquiries regarding the workshop or your participation.
+If you have any further questions or require assistance, please do not hesitate to contact us at [llmappws@gmail.com](mailto:llmappws@gmail.com). We are happy to assist with any inquiries regarding the workshop or your participation.
 
 <img align="center" width=300px alt="Unicorn" src="http://LLMapp-workshop.github.io/images/logo.png"/>
 <br>
