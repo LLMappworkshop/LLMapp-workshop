@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-# Overview
+# Overview 
 
-The 1st International Workshop on LLM App Store Analysis (LLMapp 2025), co-located with [ICSE 2025](https://conf.researchr.org/home/icse-2025) at Ottawa, Ontario, Canada, invites submissions that explore various aspects of large language model (LLM) app stores. This workshop aims to bring together researchers, industry practitioners, and students to discuss the latest trends, challenges, and future directions in LLM app ecosystems.
+The 1st International Workshop on LLM App Store Analysis (LLMapp 2025), co-located with [FSE 2025](https://conf.researchr.org/home/fse-2025) at Trondheim, Norway, invites submissions that explore various aspects of large language model (LLM) app stores. This workshop aims to bring together researchers, industry practitioners, and students to discuss the latest trends, challenges, and future directions in LLM app ecosystems.
 
 LLMs are trained on vast amounts of text data, allowing them to perform a wide range of natural language processing tasks. The advent of LLMs has opened up new possibilities for various applications, including chatbots, content generation, language translation, and sentiment analysis.
 As the capabilities of LLMs continue to expand, there has been a growing interest in making these models accessible to a broader audience. This has led to the emergence of LLM app stores, such as [OpenAI's GPT Store](https://chat.openai.com/gpts), [Quora's Poe](https://poe.com/explore), [ByteDance's Coze](https://www.coze.com/), and [FlowGPT](https://flowgpt.com/). These platforms provide a centralized marketplace where users can browse, download, and use LLM-based apps across various domains, such as productivity, education, entertainment, and personal assistance.
@@ -52,7 +52,7 @@ We welcome the following two types of submissions:
 ## Requirements
 
 - All submissions must be original and not under review elsewhere.
-- Submissions must conform to the IEEE conference proceedings template, specified in the IEEE Conference Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt type). LaTeX users must use `\documentclass[10pt,conference]{IEEEtran}` without including the `compsoc` or `compsocconf` options.
+- Submissions must conform to the [FSE Format and Submission Guidelines](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit).
 - Papers must be submitted via the HotCRP submission system ([Submission URL]) by [Submission Deadline].
 - The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. This date may be up to two weeks prior to the first day of FSE 2025. The official publication date affects the deadline for any patent filings related to published work.
 
@@ -66,8 +66,7 @@ We welcome the following two types of submissions:
 - **Paper Submission Deadline:** [Submission Deadline]
 - **Notification of Acceptance:** [Notification Date]
 - **Camera-Ready Papers Due:** [Camera-Ready Deadline]
-- **Workshop Date:** April 28, 2025
-
+- **Workshop Date:** to be updated.
 # Contact Information
 
 If you have any further questions or require assistance, please do not hesitate to contact us at [llmappws@gmail.com](mailto:llmappws@gmail.com). We are happy to assist with any inquiries regarding the workshop or your participation.
