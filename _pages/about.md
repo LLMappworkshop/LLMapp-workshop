@@ -54,7 +54,7 @@ We welcome the following two types of submissions:
 - All submissions must be original and not under review elsewhere.
 - Submissions must conform to the [FSE Format and Submission Guidelines](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit).
 - Papers must be submitted via the HotCRP submission system ([Submission URL]) by [Submission Deadline].
-- The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. This date may be up to two weeks prior to the first day of FSE 2025. The official publication date affects the deadline for any patent filings related to published work.
+- The official publication date of the workshop proceedings is the date the proceedings are made available by ACM. This date may be up to two weeks prior to the first day of FSE 2025. The official publication date affects the deadline for any patent filings related to published work.
 
 ## Review Process
 
@@ -66,7 +66,8 @@ We welcome the following two types of submissions:
 - **Paper Submission Deadline:** [Submission Deadline]
 - **Notification of Acceptance:** [Notification Date]
 - **Camera-Ready Papers Due:** [Camera-Ready Deadline]
-- **Workshop Date:** to be updated.
+- **Workshop Date:** Will be updated.
+- 
 # Contact Information
 
 If you have any further questions or require assistance, please do not hesitate to contact us at [llmappws@gmail.com](mailto:llmappws@gmail.com). We are happy to assist with any inquiries regarding the workshop or your participation.
